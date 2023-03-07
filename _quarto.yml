@@ -1,7 +1,6 @@
 project:
   title: "EPPS6365"
   type: website
-  output-dir: docs
 
 website:
   title: "Creating belkhuu.github.io"
