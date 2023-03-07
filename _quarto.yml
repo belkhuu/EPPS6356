@@ -4,7 +4,7 @@ project:
   output-dir: docs
 
 website:
-  title: "belkhuu.github.io"
+  title: "Creating belkhuu.github.io"
   navbar:
     left:
       - href: index.qmd
