@@ -1,0 +1,58 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About me",
+    "section": "",
+    "text": "The University of Texas at Dallas | Dallas, TX M.S in Economics | August 2021 - December 2022\nThe University of Texas at Dallas | Dallas, TX B.S in Economics | August 2019 - August 2021\nDallas College, Richland Campus | Dallas, TX A.S in Business | May 2015 - December 2018"
+  },
+  {
+    "objectID": "about.html#experience",
+    "href": "about.html#experience",
+    "title": "About me",
+    "section": "Experience",
+    "text": "Experience\nComet Cupboard, The University of Texas at Dallas | Student Coordinator | September 2019 - present"
+  },
+  {
+    "objectID": "assignments.html",
+    "href": "assignments.html",
+    "title": "Assignments for EPPS 6356",
+    "section": "",
+    "text": "I chose a blog setup for the assignments because it gives you a glimpse of what’s being discussed on each post, and in chronological order. My latest assignments will be on the top!\nMy goal for this page is to create a blog post that includes what I have learnt for each assignment in this Data Visualization class. So, one assignment post and one blog post. They will be tagged “blog”, “assignment”, or “hackathon” under Categories."
+  },
+  {
+    "objectID": "blogposts.html",
+    "href": "blogposts.html",
+    "title": "Blog Posts for EPPS 6356",
+    "section": "",
+    "text": "I chose a blog setup for the assignments because it gives you a glimpse of what’s being discussed on each post, and in chronological order. My latest assignments will be on the top!\nMy goal for this page is to create a blog post that includes what I have learnt for each assignment in this Data Visualization class. So, one assignment post and one blog post. They will be tagged “blog”, “assignment”, or “hackathon” under Categories."
+  },
+  {
+    "objectID": "EPPS6365.html",
+    "href": "EPPS6365.html",
+    "title": "EPPS6365",
+    "section": "",
+    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org.\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Bel Khuu",
+    "section": "",
+    "text": "This is Bel’s website.\nHere, you can learn more about me and my projects."
+  },
+  {
+    "objectID": "project.html",
+    "href": "project.html",
+    "title": "My Projects",
+    "section": "",
+    "text": "No matching items"
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "I don’t have any research project so far :)"
+  }
+]
